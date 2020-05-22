@@ -81,7 +81,7 @@ There are more settings in this file that we will set in later steps.
     breaking the first.
 
     At the least, we know that the cassandra, kubernetes and restund playbooks are
-    both guilty of hostname manipulation.
+    guilty of hostname manipulation.
 
 Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
